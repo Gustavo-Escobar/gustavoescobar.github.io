@@ -1,2 +1,2 @@
 # gustavoescobar.github.io
-Mi pagina completa
+https://gustavo-escobar.github.io/gustavoescobar.github.io/
